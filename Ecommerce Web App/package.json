@@ -1,0 +1,19 @@
+{
+    "name": "helloworld",
+    "version": "1.0.0",
+    "discription": "Porgram five homework asssingment with node.js",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test running\" && exit 1"
+    },
+    "author": "OSU",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.13.3",
+        "express": "^4.17.1",
+        "express-handlebars": "^3.1.0",
+        "express-session": "^1.11.3",
+        "forever": "^1.0.0",
+        "mysql": "^2.8.0"
+    }
+}

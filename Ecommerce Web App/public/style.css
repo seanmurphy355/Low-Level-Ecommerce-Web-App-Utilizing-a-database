@@ -1,0 +1,57 @@
+body {
+  background: #dae2e6;
+  font-family: "monserrat";
+}
+.form-control {
+  position: absolute;
+  right: 80%;
+  width: 150%;
+}
+.btn {
+  position: absolute;
+  right: 76%;
+  width: -1%;
+  background: none;
+  font-family: "monserrat";
+}
+.btn {
+  position: absolute;
+  border: none;
+  color: black;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btn {
+  background-color: #cec4c4;
+}
+.mybutton {
+  background: none;
+  font-family: "monserrat";
+  background-color: #fffbfb;
+  border: 1.4px solid #080808;
+}
+
+.mybutton:hover {
+  color: rgb(224, 167, 167);
+}
+
+.admin-title {
+  text-align: center;
+}
+
+.admin-users {
+  margin-left: auto;
+  margin-right: auto;
+}
+#h1 {
+  margin-left: 30px;
+}
+
+#moveLittle {
+  margin-top: 5%;
+}

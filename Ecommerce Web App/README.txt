@@ -1,0 +1,1 @@
+Make sure to run npm install to install the required node modules.
